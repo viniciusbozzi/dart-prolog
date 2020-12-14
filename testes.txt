@@ -1,4 +1,4 @@
-viniciusbozzi@vinicius-PC:~/Documentos/ufes/6 periodo/linguagem de programacao/Missao 2$ swipl lp-dart.pl 
+$ swipl lp-dart.pl 
 Welcome to SWI-Prolog (threaded, 64 bits, version 8.2.3)
 SWI-Prolog comes with ABSOLUTELY NO WARRANTY. This is free software.
 Please run ?- license. for legal details.
